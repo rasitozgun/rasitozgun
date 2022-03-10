@@ -32,8 +32,8 @@
 
 ![spinning-donut-featured](https://user-images.githubusercontent.com/97029034/147956278-10493ad0-caae-4260-8eb1-7204e5459278.gif)
 
-
-
+# 📈 SPOTIFY
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=diy4367nwpr70x19t5q70kcfx&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 <br/> 
 <br/>
