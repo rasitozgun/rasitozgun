@@ -1,26 +1,20 @@
 
 
-
+<div align = "center">
+  
+	
+	
 [![Discord Presence](https://lanyard.cnrad.dev/api/144541504852066304
                             )](https://discord.com/users/144541504852066304)
 
 
 
-# ⭐ GITHUB STATS
-<details align="center">
-  <summary style="font-weight: bold; font-size: 18px">GitHub Statistics</summary>
-<img src="https://github-readme-stats.vercel.app/api?username=kebabrock&show_icons=true&theme=dracula" width="%100" height="150px" alt="stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kebabrock0&layout=compact&theme=dracula" width="%100" height="150px" alt="stats" />
-<img src="https://github-profile-trophy.vercel.app/?username=kebabrock0&theme=onedark" width="%100" height="150px" alt="stats" />
-
-</details>
 
 <br/>
 <br/>
 
 
 
-<div align = "center">
 
 	
 	
@@ -69,7 +63,16 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 	
 	
-	
+<br>
+<br>
+
+<details align="center">
+  <summary style="font-weight: bold; font-size: 18px">GitHub Statistics</summary>
+<img src="https://github-readme-stats.vercel.app/api?username=kebabrock&show_icons=true&theme=dracula" width="%100" height="150px" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kebabrock0&layout=compact&theme=dracula" width="%100" height="150px" alt="stats" />
+<img src="https://github-profile-trophy.vercel.app/?username=kebabrock0&theme=onedark" width="%100" height="150px" alt="stats" />
+
+</details>
 	
 	
 <div/>
