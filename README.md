@@ -4,7 +4,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 
-
+{"success":true,"data":{"spotify":null,"listening_to_spotify":false,"kv":{"spotify":"https://open.spotify.com/user/diy4367nwpr70x19t5q70kcfx?si=0dbbc28c14e34c5a","nationality":"Turkish","name":"Rasit","github":"https://github.com/Kebabrock0","gender":"ucube"},"discord_user":{"username":"KEBABROCK","public_flags":64,"id":"144541504852066304","discriminator":"8653","avatar":"f2c8cf7183c123b4bf77537c384f0b85"},"discord_status":"online","activities":[],"active_on_discord_web":false,"active_on_discord_mobile":false,"active_on_discord_desktop":true}}
 <br/>
 
 # ⭐ GITHUB STATS
