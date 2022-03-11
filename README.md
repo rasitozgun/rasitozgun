@@ -12,8 +12,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=kebabrock&show_icons=true&theme=tokyonight" width="%100" height="150px" alt="stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kebabrock0&layout=compact&theme=tokyonight" width="%100" height="150px" alt="stats" />
 <img src="https://github-profile-trophy.vercel.app/?username=kebabrock0&theme=nord" width="%100" height="150px" alt="stats" />
-<br>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kebabrock0&theme=elegant)](https://git.io/streak-stats)
 
 </details>
 
@@ -21,6 +19,7 @@
 <br/>
 <div align = "center">
 # 🔥 GITHUB STREAKS
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kebabrock0&theme=elegant)](https://git.io/streak-stats)
 
 
 <br/>
