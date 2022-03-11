@@ -38,10 +38,10 @@
 # 🍩 DONUUUUUUUUUUUUUUUUUUUUUUUUUUUT
 
 ![spinning-donut-featured](https://user-images.githubusercontent.com/97029034/147956278-10493ad0-caae-4260-8eb1-7204e5459278.gif)
-<div style = "width = 60px;" align = "center">
+	
 # 🎧 SPOTIFY
+	
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=diy4367nwpr70x19t5q70kcfx&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-<div/>
 	
 <br/> 
 <br/>
