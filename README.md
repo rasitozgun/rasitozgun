@@ -12,33 +12,12 @@
 
 <br/>
 <br/>
-
-
-
-
-	
-	
-
-	
-
-
-
-<br/>
-<br/>
-
-
-
-
-
-<br/> 
-<br/>
 	
 	
 <details align="center">
   <summary style="font-weight: bold; font-size: 18px">GitHub Statistics</summary>
 <img src="https://github-readme-stats.vercel.app/api?username=kebabrock&show_icons=true&theme=dracula" width="%100" height="150px" alt="stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kebabrock0&layout=compact&theme=dracula" width="%100" height="150px" alt="stats" />
-<img src="https://github-profile-trophy.vercel.app/?username=kebabrock0&theme=onedark" width="%100" height="150px" alt="stats" />
 	
 <br>
 
@@ -48,6 +27,9 @@
 	
 <div  align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=Kebabrock0&theme=elegant" /></div>	
 	
+<br>	
+	
+<img src="https://github-profile-trophy.vercel.app/?username=kebabrock0&theme=onedark" width="%100" height="150px" alt="stats" />
 
 </details>
 		
