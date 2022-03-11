@@ -18,21 +18,40 @@
 
 	
 	
-# 🔥 GITHUB STREAKS
+
 	
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kebabrock0&theme=elegant)](https://git.io/streak-stats)
+
 
 
 <br/>
 <br/>
 
 
-# 📈 GITHUB GRAPH
 
-<div  align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=Kebabrock0&theme=elegant" /></div>
+
 
 <br/> 
 <br/>
+	
+	
+<details align="center">
+  <summary style="font-weight: bold; font-size: 18px">GitHub Statistics</summary>
+<img src="https://github-readme-stats.vercel.app/api?username=kebabrock&show_icons=true&theme=dracula" width="%100" height="150px" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kebabrock0&layout=compact&theme=dracula" width="%100" height="150px" alt="stats" />
+<img src="https://github-profile-trophy.vercel.app/?username=kebabrock0&theme=onedark" width="%100" height="150px" alt="stats" />
+	
+<br>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kebabrock0&theme=elegant)](https://git.io/streak-stats)	
+	
+<br>
+	
+<div  align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=Kebabrock0&theme=elegant" /></div>	
+	
+
+</details>
+		
+	
 
 # 🍩 DONUUUUUUUUUUUUUUUUUUUUUUUUUUUT
 
@@ -66,13 +85,6 @@
 <br>
 <br>
 
-<details align="center">
-  <summary style="font-weight: bold; font-size: 18px">GitHub Statistics</summary>
-<img src="https://github-readme-stats.vercel.app/api?username=kebabrock&show_icons=true&theme=dracula" width="%100" height="150px" alt="stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kebabrock0&layout=compact&theme=dracula" width="%100" height="150px" alt="stats" />
-<img src="https://github-profile-trophy.vercel.app/?username=kebabrock0&theme=onedark" width="%100" height="150px" alt="stats" />
 
-</details>
-	
 	
 <div/>
