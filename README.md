@@ -10,10 +10,13 @@
 
 
 # ⭐ GITHUB STATS
+<details align="center">
+  <summary style="font-weight: bold; font-size: 18px">GitHub Statistics</summary>
+<img src="https://github-readme-stats.vercel.app/api?username=flundar&show_icons=true&theme=tokyonight" width="%100" height="150px" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flundar&layout=compact&theme=tokyonight" width="%100" height="150px" alt="stats" />
+<img src="https://github-profile-trophy.vercel.app/?username=flundar&theme=nord" width="%100" height="150px" alt="stats" />
+</details>
 
-<a href="https://kebabrock.carrd.co/">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kebabrock0&count_private=true&show_icons=true&theme=github_dark" />
-</a>
 <br/>
 <br/>
 
