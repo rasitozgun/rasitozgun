@@ -52,7 +52,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-Follow-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rashitkebabrock/) 
 [![İnstagram Badge](https://img.shields.io/badge/Instagram-Follow-orange?style=for-the-badge&logo=instagram)](https://www.instagram.com/rashitbu/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter)](https://www.twitter.com/rashitbu/)
-![](https://komarev.com/ghpvc/?username=kebabrock0&color=blue)
 
 <br>
 <br>
