@@ -13,7 +13,7 @@
 	
 <details align="center">
   <summary style="font-weight: bold; font-size: 18px">GitHub Statistics</summary>
-<img src="https://github-readme-stats.vercel.app/api?username=kebabrock&show_icons=true&theme=dracula" width="%100" height="150px" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=kebabrock0&show_icons=true&theme=dracula" width="%100" height="150px" alt="stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kebabrock0&layout=compact&theme=dracula" width="%100" height="150px" alt="stats" />
 	
 <br>
