@@ -1,6 +1,6 @@
 
 
-<div align = "center">
+<div align = "left">
   
 	
 	
@@ -11,54 +11,37 @@
 <br/>
 	
 	
-<details align="center">
-  <summary style="font-weight: bold; font-size: 18px">GitHub Statistics</summary>
+<div align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=kebabrock0&show_icons=true&theme=dracula" width="%100" height="150px" alt="stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kebabrock0&layout=compact&theme=dracula" width="%100" height="150px" alt="stats" />
-	
-<br>
+<div/>	
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kebabrock0&theme=elegant)](https://git.io/streak-stats)	
-	
 <br>
 	
-<div  align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=Kebabrock0&theme=elegant" /></div>	
-	
-<br>	
+
 	
 <img src="https://github-profile-trophy.vercel.app/?username=kebabrock0&theme=onedark" width="%100" height="150px" alt="stats" />
 
-</details>
-		
-	
 
-# 🍩 DONUUUUUUUUUUUUUUUUUUUUUUUUUUUT
 
-![spinning-donut-featured](https://user-images.githubusercontent.com/97029034/147956278-10493ad0-caae-4260-8eb1-7204e5459278.gif)
-	
+<br>
+<br>
+<br>
+
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/> </a>
+<a href="https://www.dotnet.microsoft.com.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="c#" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> </a> 
+ <a href="https://www.mysql.com" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> </a>
+	 <a href="https://www.digitalocean.com" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original.svg" alt="digitalocean" width="40" height="40"/> </a>
+	 <a href="https://www.react.com" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a>
+	<a href="https://www.javascript.com" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="react" width="40" height="40"/> </a>
+	<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a></p>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/kebabrock0"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rashitozgun" /></a></p><br><br>
 
 <br/> 
-<br/>
-
-# 📓 CONTACT ME 
-	
-
-[![Linkedin Badge](https://img.shields.io/badge/Linkedin-Follow-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rashitkebabrock/) 
-[![İnstagram Badge](https://img.shields.io/badge/Instagram-Follow-orange?style=for-the-badge&logo=instagram)](https://www.instagram.com/rashitbu/)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter)](https://www.twitter.com/rashitbu/)
-
-<br>
-<br>
-<br>
-
-![Flutter](https://img.shields.io/badge/flutter-%230175C2.svg?style=for-the-badge&logo=flutter&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-120A8F?style=for-the-badge&logo=javascript&logoColor=yellow)
-![React](https://img.shields.io/badge/react-120A8F?style=for-the-badge&logo=react&logoColor=turquoise)
-	
-	
 	
 <br>
 <br>
