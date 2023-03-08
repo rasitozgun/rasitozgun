@@ -45,7 +45,13 @@
 	
 <br>
 <br>
-
-
+	
+	
+<h3 align="left">You can follow me:</h3>
+<p align ="left">
+	<a href="https://www.linkedin.com/in/rashitkebabrock"> <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width ="65" height= "65"/> <a/>
+		<a href="https://www.twitter.com/rashitbu"> <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" width="65" height="65" alt="twitter" /> <a/>
+		
+<p/>
 	
 </div>
