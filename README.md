@@ -1,8 +1,12 @@
 
 
 <div align = "left">
-  
+ 
+## Summary 
 	
+### Hi! I'm a junior full-stack developer who is new to the field of web development. I have learned HTML, CSS, JavaScript, React, Node.js, MongoDB, and more through online courses and self-study. I have built several projects that involved data processing, analysis, and visualization using various APIs and libraries. I'm excited to learn new technologies and create user-friendly interfaces that solve real-world problems. You can check out some of my work below or visit my portfolio website for more details.
+	
+<br/>
 	
 [![Discord Presence](https://lanyard.cnrad.dev/api/144541504852066304
                             )](https://discord.com/users/144541504852066304)
@@ -17,7 +21,6 @@
 <div/>	
 
 <br>
-	
 
 	
 <img src="https://github-profile-trophy.vercel.app/?username=kebabrock0&theme=onedark" width="%100" height="150px" alt="stats" />
