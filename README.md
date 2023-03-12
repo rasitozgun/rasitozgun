@@ -44,8 +44,4 @@
 <br>
 <br>
 	
-	
-<h3 align="left">You can follow me:</h3>
 
-	
-</div>
