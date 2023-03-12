@@ -8,12 +8,7 @@
 	
 <br/>
 	
-[![Discord Presence](https://lanyard.cnrad.dev/api/144541504852066304
-                            )](https://discord.com/users/144541504852066304)
 
-
-<br/>
-	
 	
 <div align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=kebabrock0&show_icons=true&theme=dracula" width="%100" height="150px" alt="stats" />
@@ -51,10 +46,6 @@
 	
 	
 <h3 align="left">You can follow me:</h3>
-<p align ="left">
-	<a href="https://www.linkedin.com/in/rashitkebabrock"> <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width ="65" height= "65"/> <a/>
-		<a href="https://www.twitter.com/rashitbu"> <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" width="65" height="65" alt="twitter" /> <a/>
-		
-<p/>
+
 	
 </div>
