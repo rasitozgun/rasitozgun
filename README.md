@@ -37,7 +37,7 @@
 	<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a></p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/kebabrock0"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rashitozgun" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/RasitOzgun"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rashitozgun" /></a></p><br><br>
 
 <br/> 
 	
