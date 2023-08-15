@@ -4,7 +4,7 @@
  
 ## Summary 
 	
-### Hi! I'm a junior full-stack developer who is new to the field of web development. I have learned HTML, CSS, JavaScript, React, Node.js, MongoDB, and more through online courses and self-study. I have built several projects that involved data processing, analysis, and visualization using various APIs and libraries. I'm excited to learn new technologies and create user-friendly interfaces that solve real-world problems. You can check out some of my work below or visit my portfolio website for more details.
+### Passionate and ambidextrous Software Developer with a strong foundation in various programming languages. Committed to delivering high-quality solutions and adapting to new technologies. Effective problem solver and collaborative team player with a keen eye for detail. Eager to contribute expertise to innovative projects and continue learning in the ever-evolving field of software development.
 	
 <br/>
 	
